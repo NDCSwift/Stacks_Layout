@@ -1,39 +1,29 @@
+# 📐 Stacks Layout
 
-# 🚀 Getting Started
+A SwiftUI example demonstrating HStack, VStack, ZStack, and layout fundamentals for iOS apps.
 
-## 1. Clone the Repo
-```bash
-git clone https://github.com/NDCSwift/REPO-NAME.git
-cd REPO-NAME
-```
-Or select “Clone Git Repository…” when Xcode launches.
+## 📖 What this is
+This project covers SwiftUI's core layout system — HStack, VStack, ZStack, and how to combine them to build complex UIs. It shows alignment, spacing, and how views size themselves within stacks. An essential reference for anyone learning SwiftUI layout from the ground up.
 
-⸻
+## ✅ Why you'd use it
+- **All three stack types covered** — HStack, VStack, and ZStack with practical examples
+- **Layout fundamentals explained** — alignment, spacing, and frame behavior all shown
+- **Foundation for any SwiftUI UI** — stacks are the building blocks; master them here
 
-## 2. Open in Xcode
-	•	Double-click the .xcodeproj or .xcworkspace.
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/cn80HRek83Y)
 
-⸻
+## 🚀 Getting Started
+1. Clone the repo
+2. Open `Stacks_Layout.xcodeproj` in Xcode
+3. Select your target device or simulator
+4. Update the bundle ID if needed
+5. Build and run
 
-## 3. Set Your Development Team
+## 📝 Notes
+- Built with SwiftUI
+- Requires Xcode 14+
 
-In Xcode, navigate to:
-
-TARGET → Signing & Capabilities → Team
-	
-    •	Select your personal or organizational team.
-
-⸻
-
-## 4. Update the Bundle Identifier
-	•	Change com.example.MyApp to a unique identifier (e.g., com.yourname.MyApp).
-
-⸻
-
-🛠️ Notes
-
-	•	If you see a code signing error, check that Team and Bundle ID are set.
-	•	If building for a device, ensure your provisioning profile supports the required capabilities (Push, iCloud, etc.).
-
-📺 YouTube
-[Click here to check out the guide on YouTube](https://youtu.be/cn80HRek83Y)
+## ⚙️ Requirements
+- iOS 16+
+- Xcode 14+
+- Swift 5.7+
